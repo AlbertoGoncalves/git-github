@@ -1,6 +1,9 @@
 Apenas para Primeira vez
     Para primeiro acesso e prciso gerar chave SSH
         comando: ssh-keygen
+	
+	git config --global user.name "João Silva"
+	git config --global user.email "exemplo@seuemail.com.br"
 
     Depois ir no diretorio raiz do GITBASH na pasta .SSH copiar dados
     e criar chave SSH no GIT WEB
